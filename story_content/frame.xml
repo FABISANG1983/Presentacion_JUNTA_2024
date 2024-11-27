@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="JUNTA TEMAS  Version web VER base 1" />
+              <option name="title_text" value="JUNTA TEMAS  Version web VER base 2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1560,25 +1560,24 @@
           <links>
             <slidelink slideid="_player.6ngYVdmNa5e.6Dr4ojGk4NI" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.5crwzwkDAzr" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ngYVdmNa5e.6mKyfogerjZ" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ngYVdmNa5e.5jrpD1TgiZr" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ngYVdmNa5e.6ise2ibtaR7" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ngYVdmNa5e.5oe5vh4EZzi" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ngYVdmNa5e.6mcMdsGcdpa" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.6mKyfogerjZ" displaytext="COPERACION INTERNACIONAL" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.5jrpD1TgiZr" displaytext="PLAN 20MIL" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.6I0Yxvk745G" displaytext="acuerdos y ESTATUTO DOCENTE" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.5oe5vh4EZzi" displaytext="ENTRENAMIENTO" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.6mcMdsGcdpa" displaytext="ENTRENAMIENTO VIRTUAL" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.5zENL8QAFkn" displaytext="Tabs Interaction" expand="false" type="slide" />
-            <slidelink slideid="_player.6ngYVdmNa5e.5mJBTypSoju" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.5mJBTypSoju" displaytext="PLAN ANUAL DE EDUCACIÓN" expand="false" type="slide" />
+            <slidelink slideid="_player.6ngYVdmNa5e.6KDdmt1j1fZ" displaytext="BECAS" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.6bZArHgKO0w" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6ZA9m4l4esl" displaytext="VICIN" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6ZA9m4l4esl.6D6MfkRyqUb" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZA9m4l4esl.5rKk01HNlh1" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZA9m4l4esl.6jk4nmTIMbP" displaytext="BASE" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZA9m4l4esl.6CzucUZETPr" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZA9m4l4esl.5hycQeQtf5C" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6ngYVdmNa5e.5xsKBKLb8Yw" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6ZA9m4l4esl.60s92RgeWKx" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZA9m4l4esl.60YvOgxmkhD" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZA9m4l4esl.5YM2Q0NCbaP" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZA9m4l4esl.684ZPb2oiLp" displaytext="Diapositiva sin título" expand="false" type="slide" />
+            <slidelink slideid="_player.6lVW8XCMFKe.6lLPIyrTzyg" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6lVW8XCMFKe" displaytext="BALANCE 2024  VICIN Y CIERRE" expand="true" type="slide">
@@ -1586,10 +1585,6 @@
             <slidelink slideid="_player.6lVW8XCMFKe.5k4JMxVPJmi" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6lVW8XCMFKe.6h0RdXQ5B4M" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6lVW8XCMFKe.67tYYSWV0W6" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6lVW8XCMFKe.6H2mGG2m8RK" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6lVW8XCMFKe.6k4xBDTOeHV" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6lVW8XCMFKe.6EgHbejaYFh" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6lVW8XCMFKe.5gUzJfCAUcI" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6lVW8XCMFKe.5t2n5JClTw3" displaytext="Diapositiva sin título" expand="false" type="slide" />
             <slidelink slideid="_player.6lVW8XCMFKe.6o52UAVMhsL" displaytext="Diapositiva sin título" expand="false" type="slide" />
           </links>
