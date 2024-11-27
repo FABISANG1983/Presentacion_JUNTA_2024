@@ -2,68 +2,56 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6Mc9xNoqRsE":
+      case "6j73o0vTWmY":
         Script1();
         break;
-      case "6DpTDdjRTnw":
+      case "5jc5s7rZke3":
         Script2();
         break;
-      case "5twmbE59Qc5":
+      case "5p9NUi3y0zB":
         Script3();
         break;
-      case "6Csv4Dh6fMT":
+      case "6OJjXphmUMD":
         Script4();
         break;
-      case "6ocmE90PV4L":
+      case "6kSXss4gPgm":
         Script5();
         break;
-      case "5nurfHTD5dC":
+      case "6NQutNWIeFG":
         Script6();
         break;
-      case "6eaqvUwUKH9":
+      case "6W8bSpgtTHC":
         Script7();
         break;
-      case "6EVksbSlz3f":
+      case "6MO1Nd02jgn":
         Script8();
         break;
-      case "6LaC9PyBUzy":
+      case "6kO3Jce5pe3":
         Script9();
         break;
-      case "6frbFNRNblT":
+      case "5hqMzBW01Eh":
         Script10();
         break;
-      case "69wHHaMBtxR":
+      case "6VGY1Jrumkg":
         Script11();
         break;
-      case "6836NYNfV50":
+      case "6GdQgaDv8O7":
         Script12();
         break;
-      case "5gNzv2dSkHy":
+      case "5q4zERbdN68":
         Script13();
         break;
-      case "63dDHBaZJFI":
+      case "5iT9gz7hibp":
         Script14();
         break;
-      case "6ezPD25vRdI":
+      case "63FVHH3MWLD":
         Script15();
         break;
-      case "6XLomBnxXTN":
+      case "6KyQgmsSOI1":
         Script16();
         break;
-      case "5ZhErks7Kkv":
+      case "6YtscmuDjtS":
         Script17();
-        break;
-      case "5WYXRqHHmLZ":
-        Script18();
-        break;
-      case "61YtPGb8XY4":
-        Script19();
-        break;
-      case "6Qvkp0btqCn":
-        Script20();
-        break;
-      case "5ni3TEPN75k":
-        Script21();
         break;
   }
 }
@@ -373,84 +361,6 @@ const duration = 750;
 const easing = 'ease-out';
 const id = '6hpPamQjnpB';
 const pulseAmount = 0.07;
-player.addForTriggers(
-id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script17 = function()
-{
-  player.once(() => {
-const target = object('6Oiv7EcGVy9');
-const duration = 1250;
-const easing = 'ease-out';
-const id = '6j6LmxN9QyJ';
-const pulseAmount = 0.1;
-const delay = 0;
-addToTimeline(
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
-  { fill: 'forwards', delay, duration, easing }
-), id
-);
-});
-}
-
-window.Script18 = function()
-{
-  const target = object('6Oiv7EcGVy9');
-const duration = 1250;
-const easing = 'ease-out';
-const id = '6j6LmxN9QyJ';
-const pulseAmount = 0.1;
-player.addForTriggers(
-id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script19 = function()
-{
-  const target = object('6Oiv7EcGVy9');
-const duration = 1250;
-const easing = 'ease-out';
-const id = '6j6LmxN9QyJ';
-const pulseAmount = 0.1;
-player.addForTriggers(
-id,
-target.animate([
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }, { scale: `${1 + pulseAmount}` },
-{ scale: '1' }
-],
-  { fill: 'forwards', duration, easing }
-)
-);
-}
-
-window.Script20 = function()
-{
-  const target = object('6Oiv7EcGVy9');
-const duration = 1250;
-const easing = 'ease-out';
-const id = '6j6LmxN9QyJ_reverse';
-const pulseAmount = 0.1;
 player.addForTriggers(
 id,
 target.animate([
